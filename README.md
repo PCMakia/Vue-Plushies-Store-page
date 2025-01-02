@@ -1,6 +1,7 @@
-# Vue_Anime_Plushie
+# Vue_Anime_Plushie (A project for CSC340 in DePauw University)
 
-This template should help get you started developing with Vue 3 in Vite.
+This is my take on designing a website to an online store.
+Project features firebase (free) and Vue struture 
 
 ## Recommended IDE Setup
 
@@ -10,7 +11,7 @@ This template should help get you started developing with Vue 3 in Vite.
 
 See [Vite Configuration Reference](https://vitejs.dev/config/).
 
-## Project Setup
+## Project Setup (download the node_modules folder)
 
 ```sh
 npm install
@@ -22,8 +23,3 @@ npm install
 npm run dev
 ```
 
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
